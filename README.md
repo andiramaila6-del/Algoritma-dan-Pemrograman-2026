@@ -38,7 +38,8 @@ SELESAI
 4.	Flowchart
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91458ece-dc83-4661-b9e4-f49bc7314e31" />
+<img width="348" height="737" alt="image" src="https://github.com/user-attachments/assets/0994a621-f703-4b5f-b0fc-8e1e35ec56bb" />
+
 
 
 
