@@ -38,6 +38,7 @@ SELESAI
 4.	Flowchart
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91458ece-dc83-4661-b9e4-f49bc7314e31" />
 
 
 
@@ -84,5 +85,6 @@ Berdasarkan hasil pengujian, program menghasilkan nilai yang sesuai dengan perhi
  
 Gambar Test Case 1
  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b24582e8-6d50-4210-a85e-27f30fc34a56" />
 
 Gambar Test case 2
