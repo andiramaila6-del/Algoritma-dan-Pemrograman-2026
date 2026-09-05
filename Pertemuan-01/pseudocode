@@ -1,0 +1,10 @@
+ALGORITMA LuasKelilingSegitiga
+
+INPUT a, t, s1, s2, s3
+
+luas ← (a × t) / 2
+keliling ← s1 + s2 + s3
+
+OUTPUT luas, keliling
+
+SELESAI
