@@ -79,6 +79,7 @@ Keliling = 16.0	Sesuai
 2	Luas = 40 cm2, Keliling = 24 cm	Luas = 40.0 , 
 Keliling = 24.0	Sesuai
 Berdasarkan hasil pengujian, program menghasilkan nilai yang sesuai dengan perhitungan yang diharapkan pada kedua test case. Dengan demikian, program dapat digunakan untuk menghitung luas dan keliling segitiga berdasarkan data yang dimasukkan oleh pengguna.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/656bd73b-4c48-4b17-a1f9-875dbe89d515" />
 
  
 Gambar Test Case 1
